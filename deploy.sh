@@ -1,4 +1,4 @@
 git add . &&
 git commit -m "update" &&
-git push -f -u origin main &&
+git push -u origin main &&
 echo "success"
